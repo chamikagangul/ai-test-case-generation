@@ -1,0 +1,50 @@
+Verify login with valid credentials
+Check system performance under heavy load
+Test compatibility with different browsers
+Verify data encryption during transmission
+Verify user can log out successfully
+Test response time for database queries
+Ensure proper display on mobile devices
+Check for SQL injection vulnerabilities
+Validate form input for special characters
+Measure CPU usage during video playback
+Test application with different screen resolutions
+Verify HTTPS is used for all sensitive data transfers
+Confirm email notifications are sent upon order completion
+Evaluate system stability during concurrent user sessions
+Check accessibility features with screen readers
+Test password complexity requirements
+Verify shopping cart accurately updates total price
+Measure page load times for image-heavy pages
+Ensure consistent functionality across different operating systems
+Verify user session timeout after period of inactivity
+Test search functionality with various query types
+Evaluate database connection pool under peak loads
+Check print layout consistency across browsers
+Verify secure storage of user passwords (hashing)
+Confirm order status updates correctly in user dashboard
+Test system recovery time after unexpected shutdown
+Ensure proper rendering of non-ASCII characters
+Verify protection against cross-site scripting (XSS) attacks
+Test pagination in product listing pages
+Evaluate memory usage during long-running operations
+Check compatibility with older versions of supported browsers
+Test for insecure direct object references
+Verify correct application of discount codes at checkout
+Measure response times for real-time chat feature
+Ensure consistent date and time formats across regions
+Verify data integrity during concurrent database operations
+Test user registration process with valid inputs
+Verify proper handling of invalid credit card information
+Check system behavior under low memory conditions
+Test accessibility of UI elements using keyboard navigation
+Verify correct implementation of user role permissions
+Evaluate system performance with large datasets
+Test compatibility with various screen readers and assistive technologies
+Verify secure handling of API keys and tokens
+Test accurate calculation of tax based on user location
+Measure time to first byte for critical pages
+Ensure proper functionality of drag-and-drop interfaces across devices
+Verify protection against CSRF (Cross-Site Request Forgery) attacks
+Test correct application of sorting and filtering in list views
+Evaluate system resource usage during backup processes

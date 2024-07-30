@@ -1,0 +1,32 @@
+Verify user can log out successfully, Functional
+Test response time for database queries, Performance
+Ensure proper display on mobile devices, Compatibility
+Check for SQL injection vulnerabilities, Security
+Validate form input for special characters, Functional
+Measure CPU usage during video playback, Performance
+Test application with different screen resolutions, Compatibility
+Verify HTTPS is used for all sensitive data transfers, Security
+Confirm email notifications are sent upon order completion, Functional
+Evaluate system stability during concurrent user sessions, Performance
+Check accessibility features with screen readers, Compatibility
+Test password complexity requirements, Security
+Verify shopping cart accurately updates total price, Functional
+Measure page load times for image-heavy pages, Performance
+Ensure consistent functionality across different operating systems, Compatibility
+Verify user session timeout after period of inactivity, Security
+Test search functionality with various query types, Functional
+Evaluate database connection pool under peak loads, Performance
+Check print layout consistency across browsers, Compatibility
+Verify secure storage of user passwords (hashing), Security
+Confirm order status updates correctly in user dashboard, Functional
+Test system recovery time after unexpected shutdown, Performance
+Ensure proper rendering of non-ASCII characters, Compatibility
+Verify protection against cross-site scripting (XSS) attacks, Security
+Test pagination in product listing pages, Functional
+Evaluate memory usage during long-running operations, Performance
+Check compatibility with older versions of supported browsers, Compatibility
+Test for insecure direct object references, Security
+Verify correct application of discount codes at checkout, Functional
+Measure response times for real-time chat feature, Performance
+Ensure consistent date and time formats across regions, Compatibility
+Verify data integrity during concurrent database operations, Security
